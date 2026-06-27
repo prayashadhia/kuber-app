@@ -23,14 +23,7 @@ Built by an indie developer, currently in beta.
 
 ## 📸 Screenshots
 
-| | |
-|---|---|
-| <img src="screenshots/01-dashboard.png" width="260" alt="Dashboard"> | <img src="screenshots/02-transactions.png" width="260" alt="Transactions list"> |
-| *Dashboard — spending at a glance* | *Transactions — auto-categorised and searchable* |
-| <img src="screenshots/03-budgets.png" width="260" alt="Budgets"> | <img src="screenshots/04-import.png" width="260" alt="Import"> |
-| *Budgets — stay on track each month* | *Import — bring in statements and alerts* |
-
-> *Screens are illustrative mockups with sample data.*
+_Coming soon._
 
 ---
 
