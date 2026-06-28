@@ -23,7 +23,12 @@ Built by an indie developer, currently in beta.
 
 ## 📸 Screenshots
 
-_Coming soon._
+| | |
+|---|---|
+| <img src="screenshots/01-dashboard.jpeg" width="260" alt="Dashboard"> | <img src="screenshots/02-transactions.jpeg" width="260" alt="Transactions"> |
+| *Dashboard — your money at a glance, with budgets* | *Transactions — searchable & auto-categorised* |
+| <img src="screenshots/03-gmail-sync.jpeg" width="260" alt="Gmail sync"> | <img src="screenshots/04-welcome.jpeg" width="260" alt="Welcome"> |
+| *Gmail sync — auto-import statements & alerts* | *Quick onboarding when you first open the app* |
 
 ---
 
